@@ -141,7 +141,7 @@ QString("<br /><br /><br /><br /><br /><br /><br /><br /><br />") +
 "<p>" +
 	tr("Thanks to Kurt Badelt and Miguel Solis for the Spanish translation, ") +
 	tr("to Gianluca Urgese for the Italian translation, ") +
-	tr("to Nuno Pessanha Santos for the Portuguese (European) translation, ") +
+	tr("to Nuno Pessanha Santos and Bruno Ramalhete for the Portuguese (European) translation, ") +
 	tr("to Yuelin and Ninjia  for the Chinese (Simplified) translation, ") +
 	tr("to Hiroshi Suzuki for the Japanese translation, ") +
 	tr("to Robert Lee for the Chinese (Traditional) translation, ") +
@@ -155,7 +155,7 @@ QString("<br /><br /><br /><br /><br /><br /><br /><br /><br />") +
     tr("to Cihan Mete Bahad&#x0131;r for the Turkish translation, " ) +
     tr("to Nikolay Stankov for the Bulgarian translation, " ) +
    
-	tr("and to Arthur Zanona, Nuno Pessanha Santos, Leandro Nunes, and Gabriel Ferreira for the Portuguese (Brazilian) translation. " ) +
+	tr("and to Arthur Zanona, Bruno Ramalhete, Nuno Pessanha Santos, Leandro Nunes, and Gabriel Ferreira for the Portuguese (Brazilian) translation. " ) +
 "</p>" +
 
 "<p>" +
